@@ -1,8 +1,8 @@
 # TEST PROYECT
 
-To run the test use the commands:\n
-```make```\n
+To run the test use the commands:
+```make```
 ```make run```
 
-To clean the binaries use:\n
+To clean the binaries use:
 ```make clean```
